@@ -63,7 +63,6 @@ hs_err_pid*
 
 # End of https://www.gitignore.io/api/java
 
-
 *.properties
 !/src/main/resources/application-example.properties
 
