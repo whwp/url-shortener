@@ -1,7 +1,5 @@
 ## URL Shortener using Spring Boot
 
-http://54.183.95.198:8080/shortener
-
 ###### Technology Stack:
 - Backend: Java, Spring Boot, Spring Data, Maven, Tomcat, REST
 - Databases: MongoDB
