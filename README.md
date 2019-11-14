@@ -6,4 +6,4 @@
 
 ###### Comments:
 - Create the file application.properties under the folder src/main/resources. Refer to application-example.properties for the content.
-- login in to cloud.mongodb.com, Security -> Network Access -> add the app's host server to the IP Whitelist
+- login into cloud.mongodb.com, Security -> Network Access -> add the app's host server to the IP Whitelist
